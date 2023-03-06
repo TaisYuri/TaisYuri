@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Inicialmente descobri o mundo perfeito e maravilho de Python. Utilizava sua programação para criações de tarefas automatizadas.
 Mas agora estou mergulhando a fundo no mundo de React Native! O mundo de front é bacana quando você gosta de investir amor e colher telas lindas ❤
 
-🌱 Atualmente estou aprendendo React Native e ReactJS
+🌱 Atualmente estou aprendendo React Native, ReactJS e Kotlin
 
 
 📫 Contato:
