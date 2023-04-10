@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✌ Olá Devs! Me chamao Tais Yuri e esta é minha melhor fase da vida! ✌
+✌ Olá Devs! Me chamo Tais Yuri e esta é minha melhor fase da vida! ✌
 😄 Sou formada em Analise e desenvolvimento de sistemas e por muitos anos atuei com suporte técnico voltado a sistema de varejos. Mas foi no desenvolvimento que sempre gostei de atuar! 
 
 Inicialmente descobri o mundo perfeito e maravilho de Python. Utilizava sua programação para criações de tarefas automatizadas.
